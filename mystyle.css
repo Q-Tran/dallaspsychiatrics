@@ -1,0 +1,91 @@
+body{
+	background-image:url("logo_x_pattern.png");
+}
+.header{
+	float:top;
+	width:100%;
+	height:200px;
+}
+.header img{
+	position:absolute;
+	left:300px;
+	top:100px;
+}
+.page{
+	width:75%;
+	float:left;
+}
+.page h2{
+	margin-left:40px;
+}
+.endpage{
+	margin-top:250px;
+	width:100%;
+	height:200px;
+	float:left;
+	background-color:#737373;
+}
+.endpage p{
+	color:white;
+	text-align:center;
+}
+.endpage a{
+	text-decoration:none;
+	color:#e6e6e6;
+}
+.endpage a:hover{
+	color:#99eaff;
+}
+.column1{
+	margin:10px;
+	margin-left:50px;
+	width:220px;
+	float:left;
+}
+.column1 h1{
+	font-size:20px;
+}
+.column2{
+	margin:10px;
+	width:220px;
+	float:left;
+}
+.column2 h1{
+	font-size:20px;
+}
+.column3{
+	margin:10px;
+	width:220px;
+	float:left;
+}
+.column3 h1{
+	font-size:20px;
+}
+.linkbar{
+	width:25%;
+	float:left;
+}
+.linkbar a{
+	text-decoration:none;
+	color:grey;
+}
+.linkbar a:hover{
+	color:black;
+}
+.linkbar li{
+	list-style-type: none;
+	text-align:right;
+	font-size:20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.linkbar img{
+	float:right;
+}
+.tweetbar{
+	margin-top:100px;
+	height:400px;
+	float:right;
+	margin-right:50px;
+
+}
